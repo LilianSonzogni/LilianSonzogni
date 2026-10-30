@@ -35,7 +35,7 @@ Développeur full stack et étudiant en **Master Expert en Développement Full S
 
 ## Me trouver
 
-[![GitLab](https://img.shields.io/badge/GitLab-SonzogniLilian-111111?style=for-the-badge&logo=gitlab&logoColor=F59E0B)](https://gitlab.com/SonzogniLilian)
+[![GitLab](https://img.shields.io/badge/GitLab-LilianSonzogni-111111?style=for-the-badge&logo=gitlab&logoColor=F59E0B)](https://gitlab.com/LilianSonzogni)
 <!-- À ajouter quand le site sera en ligne :
 [![Site](https://img.shields.io/badge/Site-liliansonzogni.fr-111111?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)](https://liliansonzogni.fr)
 -->
