@@ -1,0 +1,80 @@
+{
+  "header": {
+    "hello": "// salut, moi c'est",
+    "name": "Lilian Sonzogni",
+    "role": "Développeur Full Stack",
+    "tagline": "php · e-commerce · elasticsearch · self-hosting"
+  },
+  "projects": [
+    {
+      "slug": "dolibarr",
+      "name": "Dolibarr ERP CRM",
+      "description": "ERP/CRM open source en PHP. Je propose corrections et améliorations directement sur le dépôt officiel.",
+      "tags": [
+        "PHP",
+        "Open source",
+        "ERP / CRM"
+      ],
+      "status": "contributeur",
+      "pr_counter": "Dolibarr/dolibarr"
+    },
+    {
+      "slug": "bingo",
+      "name": "Bingo",
+      "description": "Bingo en ligne pour les cours, né d'un prototype monté en une heure en pleine masterclass IA. Le vrai projet, propre et outillé, est en réflexion.",
+      "tags": [
+        "HTML / JS",
+        "Self-hosted"
+      ],
+      "status": "en réflexion"
+    }
+  ],
+  "stack": [
+    {
+      "label": "langages",
+      "items": [
+        "PHP",
+        "JavaScript",
+        "Python",
+        "Java",
+        "C / C++",
+        "SQL"
+      ]
+    },
+    {
+      "label": "web & cms",
+      "items": [
+        "HTML / CSS",
+        "Magento 2",
+        "WordPress",
+        "WooCommerce",
+        "Elementor",
+        "Joomla",
+        "PrestaShop"
+      ]
+    },
+    {
+      "label": "données",
+      "items": [
+        "MySQL",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "label": "devops & outils",
+      "items": [
+        "Linux",
+        "Debian",
+        "Docker",
+        "GitLab CI/CD",
+        "SonarQube",
+        "Git",
+        "Postman"
+      ]
+    }
+  ],
+  "stats": {
+    "login": "LilianSonzogni",
+    "exclude_languages": []
+  }
+}
